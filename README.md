@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQHD1NgEcHlKqw/profile-displaybackgroundimage-shrink_350_1400/0/1690134297160?e=1695859200&v=beta&t=dqnbG63BHMjD2NOjr3UE7sFL9Z5-XotKc8z_Ay2vXsQ)
 <h1 align="center">Hi 👋, I'm Subhadeep Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhdeepchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="subhdeepchakraborty" /> </p>
 
