@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQHD1NgEcHlKqw/profile-displaybackgroundimage-shrink_350_1400/0/1690134297160?e=1695859200&v=beta&t=dqnbG63BHMjD2NOjr3UE7sFL9Z5-XotKc8z_Ay2vXsQ)]
+![MasterHead](https://media.licdn.com/dms/image/D5616AQHD1NgEcHlKqw/profile-displaybackgroundimage-shrink_350_1400/0/1690134297160?e=1695859200&v=beta&t=dqnbG63BHMjD2NOjr3UE7sFL9Z5-XotKc8z_Ay2vXsQ)
 <h1 align="center">Hi 👋, I'm Subhadeep Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47s9avw2qmfausmo92anjv4fi7nrwtkb0o5mm155tb&ep=v1_gifs_search&rid=giphy.gif&ct=g" >
